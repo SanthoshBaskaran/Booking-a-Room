@@ -15,3 +15,4 @@ Input definition:
       
  output:
   50(randomly)
+If no rooms are available(print 'too late')
